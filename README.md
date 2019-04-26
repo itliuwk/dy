@@ -1,6 +1,14 @@
-# maoyan
 
-> A Vue.js project
+# 演示地址： http://www.sxitw.cn/dy
+
+# 电影票房实时更新
+
+<img src='https://github.com/itliuwk/dy/blob/master/src/assets/home.png?raw=true'>
+
+
+
+
+A Vue.js project
 
 ## Build Setup
 
