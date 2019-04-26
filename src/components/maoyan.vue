@@ -29,6 +29,10 @@
         label="票房">
       </el-table-column>
       <el-table-column
+        prop="office_ratio"
+        label="票房占比">
+      </el-table-column>
+      <el-table-column
         prop="show_rate"
         label="排片占比">
       </el-table-column>
