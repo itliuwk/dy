@@ -1,5 +1,5 @@
 
-# 演示地址： http://www.sxitw.cn/dy
+# 演示地址：http://sxitw.cn/tool/#/dy
 
 # 电影票房实时更新
 
