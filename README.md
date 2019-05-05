@@ -3,7 +3,7 @@
 
 # 电影票房实时更新
 
-<img src='https://github.com/itliuwk/dy/blob/master/src/assets/home.png?raw=true'>
+<img src='https://github.com/itliuwk/dy/blob/master/src/assets/dy.png?raw=true'>
 
 
 
